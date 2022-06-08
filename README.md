@@ -78,3 +78,7 @@ Simple and quick to build:
 # Initialize (14 minutes)
 - Maybe I could omit using eslint, as a configuration of it is sometimes time-consuming. If you have only 90 minutes, I think you need to trust yourself, or add it later and analyze the project.
 - I thought to use Typescript, but the configuration of it and all tools would be even more time-consuming.
+# Add Express + home endpoint (16 minutes)
+- I feel that I could use some nodejs framework, which would generate an application scaffold. Like NestJs
+- I think that in 30 minutes I didn't deliver a lot of value to the client.
+- I decided to give up this try and use nestjs.
