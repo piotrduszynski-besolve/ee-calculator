@@ -17,7 +17,8 @@ Version number: 5b8d0fd276b6d288905ed2f63a934e057e8feca2
     - 10? chars of precision(is there a limitation for number?)
     - clear input
 ### Technical Requirements
-- coding exercise no more than 90 minutes, code like for the paying client - what compromises I would take
+- coding exercise no more than 90 minutes, code like for the paying client - what compromises I would take.
+    
     I've spent some time before starting the coding on analyzes, in the meantime before starting coding exercise. It was hard to find 2h of efficient time to do it. So I had a lot of thoughts before starting. 
     Then did the coding. I decided to split time into 15 minutes sessions maximum. To keep on track of what progress I made and do I need to change a plan o execution.
 - Required: Test Coverage, Simplicity, Self-explanatory code
