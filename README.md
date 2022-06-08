@@ -75,3 +75,6 @@ Simple and quick to build:
  - If MVP is created, add Mixpanel
  
 # Session Notes
+# Initialize (14 minutes)
+- Maybe I could omit using eslint, as a configuration of it is sometimes time-consuming. If you have only 90 minutes, I think you need to trust yourself, or add it later and analyze the project.
+- I thought to use Typescript, but the configuration of it and all tools would be even more time-consuming.
